@@ -27,14 +27,19 @@ Este poddria ser el paso para continuar en el mundo del software luego de esto e
 ---
 
 ## - [Introduccion a la Computacion, CPU y Memeria](https://docs.google.com/document/d/1qla9YrQFm2FKlNMsYQ4Exy5vB3ZGsatc/edit?usp=sharing&ouid=105526885336838590350&rtpof=true&sd=true)
+Introduccion al pensamiento computacional, numeros e interpretacion binaria a bytes/bits funcionamiento de los componentes basicos de un pc
 
 ## - [Funcionamiento de las redes de Internet](https://docs.google.com/document/d/1f8mgw1G2GtcDGFbt0Ma8B8CJ7k-ytL4J/edit?usp=sharing&ouid=105526885336838590350&rtpof=true&sd=true)
+Redes LAN, Redes MAN que es un DNS, una IP publica, como se envia la informacion y no... **no es por satelites!**
 
 ## - [Sistemas Operativos](https://docs.google.com/document/d/1-TvGA9WUVti6FMD-H_bXm44Bvj5xLega/edit?usp=sharing&ouid=105526885336838590350&rtpof=true&sd=true)
+Sistemas linux, andoid, permisos y demas para entender bien un sistema
 
 ## - [Archivos y Estructuramiento de Datos](https://docs.google.com/document/d/1B2mnOntGlc7mKyO0Gz2Z4b-2kCv2H2o8/edit?usp=sharing&ouid=105526885336838590350&rtpof=true&sd=true)
+Como un pc detecta que tipo de documento abrimos, como funcionan los sistemas de compresion
 
 ## - [Extras y Complementos en la Ingeniera de Software](https://docs.google.com/document/d/1vmQgxEtXGpC53ULWLvhGbzKyV66zO5Wz/edit?usp=sharing&ouid=105526885336838590350&rtpof=true&sd=true)
+Fundamento y pieza clave para la Inteligencia Artifial
 
 <br>
 
